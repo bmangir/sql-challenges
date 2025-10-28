@@ -1,0 +1,2 @@
+# ABOUT THE PROJECT
+This project and challenges are designed to find the SQL solutions to problems. Each challenge contains a description of the problem, the expected output, and the SQL code to solve it.
