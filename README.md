@@ -29,3 +29,4 @@ sql-challenges/
   - A comment section at the top describing the question or challenge.
   - The SQL code that provides the solution to the challenge by me.
   - The correct SQL code that provides the solution to the challenge.
+  - Explanations or comments comparing my solution with the correct solution, if necessary.
