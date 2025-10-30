@@ -27,4 +27,4 @@ sql-challenges/
 ## Qn.sql FILES FORMAT
 - Each QA file is named sequentially (e.g., QA1.sql, QA2.sql) and contains:
   - A comment section at the top describing the question or challenge.
-  - The correct SQL code that provides the solution to the challenge.
+  - The SQL code that provides the solution to the challenge.
