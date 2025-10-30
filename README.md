@@ -28,4 +28,3 @@ sql-challenges/
 - Each QA file is named sequentially (e.g., QA1.sql, QA2.sql) and contains:
   - A comment section at the top describing the question or challenge.
   - The correct SQL code that provides the solution to the challenge.
-  - Explanations or comments comparing my solution with the correct solution, if necessary.
