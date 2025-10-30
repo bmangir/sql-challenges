@@ -10,7 +10,7 @@ WITH player_activity AS (
 		COUNT(DISTINCT game_id) AS distinct_game_play_cnt,
 		SUM(duration_minutes) AS total_duration
 	FROM sessions
-	WHERE session_date >= CURRENT_DATE - INTERVAL '7 days'
+	WHERE session_date >= '2025-10-04'::date - INTERVAL '7 days'  -- Date must be changed with CURRENT_DATE
 	GROUP BY player_id
 )
 SELECT
